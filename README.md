@@ -43,7 +43,7 @@
 
 
 <!-- GitHub 통계 카드 -->
-[![seohyunk09's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunk09&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![seohyunk09's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunk09&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- 기술 스택, 블로그, 연락처 등 -->
 ##  DEV's log
