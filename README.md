@@ -14,7 +14,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">    
         안녕하세요! 강서현입니다.<br>
         개발 과정에서 얻는 깨달음을 통해 성장하고 싶습니다.<br>
-        
     </div>
    
 <div style="text-align: center;">
