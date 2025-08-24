@@ -1,5 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd500,100:f2fe48&height=240&text=seohyunk09's%20GitHub%20&animation=scaleIn&fontColor=daae34&fontSize=70" />
+
+    
+<!-- 헤더 / 인사말 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=240&lines=seohyunk09's+GitHub!)](https://git.io/typing-svg)
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -37,13 +42,8 @@
     </div>
     
 
-<!-- 헤더 / 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=seohyunk09's+GitHub!)](https://git.io/typing-svg)
 
 
-<!-- GitHub 통계 카드 -->
-<!--[![seohyunk09's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunk09&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- 기술 스택, 블로그, 연락처 등 -->
 ##  DEV's log
