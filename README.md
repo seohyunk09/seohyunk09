@@ -60,23 +60,6 @@
 
 
 
-<!-- 기술 스택, 블로그, 연락처 등 -->
-##  DEV's log
-<div style="display:flex; flex-direction:row;">
-<!--   <a href="https://yourblogurl.example"> -->
-    <img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=blog&logoColor=white">
-<!--   </a> -->
-</div>
-
-##  Contact
-<div style="display:flex; flex-direction:row;">
-  <a href="seohyunso0916@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
- 
-</div>
-
-
 
 
 
